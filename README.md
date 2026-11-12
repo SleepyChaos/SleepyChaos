@@ -1,7 +1,7 @@
 # 🚪Knock Knock，Here is Sisyphus 
 
-杭师大在读学生
-正在努力从vibecoding的浪潮中寻找让我happy的夹缝
+杭师大在读学生ing
+正在努力从vibecoding的浪潮中寻找属于我的石头
 
 > One must imagine Sisyphus happy.
 
