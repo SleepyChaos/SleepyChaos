@@ -1,30 +1,21 @@
 # 你好，我是 Sisyphus 👋
 
-也可以叫我 Chaos。这里放我的代码、课程作业，以及一些边学边做的小项目。
+也可以叫我 Chaos。一个还在边学边做的 CS 学生。
 
 > One must imagine Sisyphus happy.
 
-有的项目还在慢慢补，有的停在某个学习阶段。先把当时的想法做出来，再一点点弄明白。
+这里留着我的学习记录、写过的代码，还有一些没做完的小尝试。遇到想弄明白的东西，就写点代码试试；踩过的坑，尽量记下来。
 
-[随便逛逛我的博客](https://sleepychaos.github.io/ChaosBlog/) · [看看仓库](https://github.com/SleepyChaos?tab=repositories)
+### 最近在做的事
 
-### 最近在折腾什么
+- **代码审计**：在 [SemFlow Audit](https://github.com/SleepyChaos/semflow-audit) 里，尝试让 CodeQL、模型取证和修复验证配合起来。还是研究原型，继续折腾。
+- **学 Rust**：从基础概念和一个小小的 Todo CLI 开始，慢慢熟悉所有权、借用和错误处理。
+- **写博客**：把学到的东西、项目过程和偶尔的想法，整理到 [Chaos's Blog](https://sleepychaos.github.io/ChaosBlog/)。
 
-- **AI 和代码审计**：在 [SemFlow Audit](https://github.com/SleepyChaos/semflow-audit) 里，尝试让 CodeQL、模型取证和修复验证配合起来。还是研究原型，有不少需要验证的地方。
-- **数据库工具**：[AI DB Workbench](https://github.com/SleepyChaos/ai-db-workbench)，想做一个能用对话操作数据的工作台。目前接通了界面和 Agent，数据库适配还在路上。
-- **时间记录**：[时间刻度](https://github.com/SleepyChaos/time-statistics-app)，受柳比歇夫时间统计法启发的小 App。页面与本地数据流程已有基础，iPhone 原生适配还需要继续做。
-- **岗位与能力图谱**：[job-capability-graph](https://github.com/SleepyChaos/job-capability-graph)，从岗位文本、技术词和数据里探索岗位之间的关系。
+### 关于这里
 
-### 也留着这些课堂作业
+有些仓库是手写的课堂作业，有些是学习复现，有些还在开发。它们记录的是不同阶段的我，进度和边界写在各自的 README 里。
 
-从控制台菜单到前后端应用，都是学习过程里留下来的东西。
+希望过一阵回头看，能发现自己又多弄懂了一点。
 
-- [Java 控制台书店](https://github.com/SleepyChaos/BookManagerbyJAVA)：账号、购物车、订单和会员，数据存在内存里。
-- [校园活动系统](https://github.com/SleepyChaos/campus-activity-system)：Vue 课程作品，用模拟接口串起活动发布与报名流程。
-- [软件架构课程项目](https://github.com/SleepyChaos/software-architecture-final-project)：用图书管理系统练习前后端、容器和服务协作。
-
-### 想记下来的东西
-
-把弄懂的东西写下来，也把踩过的坑留下来。技术笔记、项目过程和偶尔的想法，会慢慢放到[博客](https://sleepychaos.github.io/ChaosBlog/)。
-
-如果你刚好也在做相近的尝试，欢迎在对应项目里交流。
+[博客](https://sleepychaos.github.io/ChaosBlog/) · [所有仓库](https://github.com/SleepyChaos?tab=repositories)
